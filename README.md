@@ -21,3 +21,6 @@ If the point's distance from the origin (0.0 x 0.0) is greater than 1, that mean
 On average, the approximation improves as more points are placed.
 
 By default, the $maximumPoints variable is set to 1000000, but feel free to go crazy.
+
+
+https://en.wikipedia.org/wiki/Monte_Carlo_method
